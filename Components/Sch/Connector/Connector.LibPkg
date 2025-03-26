@@ -2428,7 +2428,7 @@ GenerateClassCluster=0
 DocumentUniqueId=USSUEAUE
 
 [Document141]
-DocumentPath=ESQ-126-39-G-D_GOST.SchLib
+DocumentPath=CON_52_pin_GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
