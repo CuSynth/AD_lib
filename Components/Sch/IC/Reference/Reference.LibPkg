@@ -199,7 +199,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IXTWIFII
 
 [Document10]
 DocumentPath=ADR45XX.SchLib
@@ -219,7 +219,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FJDLKYQU
 
 [Document11]
-DocumentPath=SOP-8.PcbLib
+DocumentPath=..\..\..\Pcb\Standart\SOP-8_norm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
