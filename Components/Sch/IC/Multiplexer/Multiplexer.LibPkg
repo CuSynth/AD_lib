@@ -135,7 +135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IOBRKKYL
 
 [Document6]
-DocumentPath=..\..\..\Pcb\Standart\VQFN-14.PcbLib
+DocumentPath=..\..\..\Pcb\Standart\VQFN-24.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
